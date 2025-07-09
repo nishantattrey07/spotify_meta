@@ -1,0 +1,36 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+ENV/
+
+# Downloaded content
+songs/
+metadata/
+
+# Logs
+download_log.txt
+*.log
+
+# Input files (remove if you want to track them)
+youtube_input.txt
+
+# Spotify cache
+.cache
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo%  
